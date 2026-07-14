@@ -4,6 +4,9 @@
   <img src="images/diabetes-machine-learning-banner.png" alt="Diabetes Prediction Banner" width="100%">
 </p>
 
+
+🔗 View Interactive Dashboard: [Click Here](https://app.powerbi.com/view?r=Diabetes Risk Analysis Dashboard.pbix)
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
